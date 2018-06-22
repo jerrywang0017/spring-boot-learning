@@ -1,7 +1,7 @@
-package com.jerry.demo.springboot.jdbctemplate.controller;
+package com.jerry.demo.springboot.druid.controller;
 
-import com.jerry.demo.springboot.jdbctemplate.domain.User;
-import com.jerry.demo.springboot.jdbctemplate.service.UserService;
+import com.jerry.demo.springboot.druid.domain.User;
+import com.jerry.demo.springboot.druid.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;

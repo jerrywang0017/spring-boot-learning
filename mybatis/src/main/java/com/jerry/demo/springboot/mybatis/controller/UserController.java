@@ -1,7 +1,7 @@
-package com.jerry.demo.springboot.jdbctemplate.controller;
+package com.jerry.demo.springboot.mybatis.controller;
 
-import com.jerry.demo.springboot.jdbctemplate.domain.User;
-import com.jerry.demo.springboot.jdbctemplate.service.UserService;
+import com.jerry.demo.springboot.mybatis.domain.User;
+import com.jerry.demo.springboot.mybatis.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;

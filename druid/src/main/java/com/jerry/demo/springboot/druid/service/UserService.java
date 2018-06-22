@@ -1,6 +1,6 @@
-package com.jerry.demo.springboot.jdbctemplate.service;
+package com.jerry.demo.springboot.druid.service;
 
-import com.jerry.demo.springboot.jdbctemplate.domain.User;
+import com.jerry.demo.springboot.druid.domain.User;
 
 import java.util.List;
 

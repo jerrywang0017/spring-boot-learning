@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+management:
+  context-path: /actuator
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: '*'
